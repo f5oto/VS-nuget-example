@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = cyclonedx_dotnet
+build_property.ProjectDir = C:\Apps\dotnet-VS-example\
